@@ -65,8 +65,14 @@
         <mxCell id="jpIQZNQABtX-8I1oOudm-10" value="validação" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="520" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jpIQZNQABtX-8I1oOudm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jpIQZNQABtX-8I1oOudm-14" target="jpIQZNQABtX-8I1oOudm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jpIQZNQABtX-8I1oOudm-14" value="obs atualmente é em planilha&lt;div&gt;&lt;ol&gt;&lt;li&gt;torre&lt;/li&gt;&lt;li&gt;apartamento&lt;/li&gt;&lt;li&gt;nome (morador(a))&lt;/li&gt;&lt;li&gt;coluna 01 (data da infração)&lt;/li&gt;&lt;li&gt;status (multa, advertência ou cancelamento)&lt;/li&gt;&lt;li&gt;artigo&lt;/li&gt;&lt;li&gt;observação&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127" y="632" width="230" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="jpIQZNQABtX-8I1oOudm-17" value="Gerar Notificação" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="168" y="881" width="148" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
